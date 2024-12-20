@@ -1,0 +1,85 @@
+DHS Lexicon
+
+gas that is formed
+especially in human
+and animal
+respiration and in the
+decay or combustion
+of animal and
+vegetable matter, and
+is absorbed from the
+air by plants in
+
+anthropogenic
+greenhouse gas that
+affects the earth's
+radiative balance. It is
+the reference gas
+against which other
+greenhouse gases are
+measured and,
+therefore, has a Global
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+DEFINITION INFO
+architecture, acquisition of real needs—eliminate Instruction/Guidebo
+security, budgeting, property (per guidelines | duplication, promote ok; DHS Instruction
+procurement, and the | by OMB Circular A-11) | integration & 102-01b - Appendix
+management of the interoperability B Systems
+investment in support through business Engineering Life
+of missions and submissions Cycle; Instruction
+business needs 102-02-001 - Capital
+The term comes from Planning And
+the Clinger-Cohen Act Investment Control
+of 1996; while Instruction
+originally focused on
+IT, it now applies also
+to non-IT investments
+(OMB Circular No. A-
+11).
+
+* | capital document that None The DHS CPIC DHS Instruction
+planning and provides the annual Branch Chief 102-02-001 - Capital
+investment OMB direction on maintains, creates, and Planning And
+control the capital planning revises the documents. Investment Control
+guidance and investment Instruction
+document (*) control requirements
+carbon dioxide co2 naturally occurring None CO2 is the principal DHS Instruction
+
+025-01 - DHS
+Sustainable
+Practices Guidance
+Manual; DHS/OGC
+
+equipment, including
+imaging and
+radiation detection
+equipment, to
+capture data relative
+
+processes for cargo
+scanning are
+improving ona
+daily basis.
+
+photosynthesis Warming Potential of
+1.
+cargo commodity includes materials None DHS/PLCY/OSP -
+transported, or to be necessary to manage Domain Awareness
+transported, commodity in transport Working Group
+generally for (pallet, box, container,
+commercial gain, by ete.)
+ship, aircraft, train,
+yan or truck
+cargo scanning use of nonintrusive None None The equipment and DHS/ESEC
+
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 79
+

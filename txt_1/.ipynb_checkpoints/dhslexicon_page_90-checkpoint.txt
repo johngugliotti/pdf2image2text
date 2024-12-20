@@ -1,0 +1,60 @@
+DHS Lexicon
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+DEFINITION INFO
+open to all United
+States citizens).
+certification (See - recovered DHS Instruction
+material certification 025-01 - DHS
+(*) Sustainable
+Practices Guidance
+Manual
+certification comprehensive establishes the extent to | The external DHS Instruction
+evaluation of which a particular verification for health 140-04-001 - Special
+technical and non- design and related aspects Access Program
+technical aspects implementation meet a typically involves an Management,
+made as part of and set of specified external process such Administration and
+in support of the requirements; provides as the National Oversight;
+accreditation process | external verification of Registry for DHS/OHA; DHS
+competencies achieved Emergency Medical Management
+by an individual Technicians, National Directive 248-01 -
+Commission on Medical Quality
+Certification of Management and
+Ph ‘ian Assistants, DHS Instruction
+or a Board recognized 248-01-001 -
+by the American Medical Quality
+Board of Medical Management
+Specialties, the
+American Board of
+Nursing Specialties, or
+the American Dental
+Association.
+certification C&A comprehensive None None DHS Instruction
+and assessment of the 102-01b - Appendix
+accreditation management, B Systems
+operational, and Engineering Life
+technical security Cycle
+controls in an
+information system,
+made in support of
+security
+accreditation, to
+determine the extent
+to which the controls
+are implemented
+correctly, operating
+as intended, and
+producing the desired
+outcome with respect
+to meeting the
+security
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 83
+

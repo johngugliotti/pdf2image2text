@@ -1,0 +1,68 @@
+DHS Lexicon
+
+personnel
+
+access to classified
+
+armed forces, experts or
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SYNONYM SEE SUPPL SOURCE
+DEFINITION INFO
+Compartmented
+Information (SCI)
+Program
+Management
+classified information that has is marked to indicate its | None classified DHS Instruction
+national been determined classified status when in document; 121-01-013 -
+security pursuant to documentary form classified Sensitive
+information Executive Order information Compartmented
+13526 or any Information (SCI)
+predecessor order to Program
+require protection Management; DHS
+against unauthorized Instruction 262-05-
+disclosure 002 - Information
+Sharing and
+Safeguarding:
+Insider Threat
+Program; DHS
+Instruction 121-01-
+099 Rev 01 -
+Department of
+Homeland Security
+Technical
+Surveillance
+Countermeasures
+Program
+cleanup cost cost of removing, None None DHS Instruction
+containing, and/or 023-02-002-02 -
+disposing of DHS Environmental
+hazardous waste Liabilities
+from property, or
+material and/or
+property that consists
+of hazardous waste at
+a permanent or
+temporary closure or
+shutdown of
+associated property,
+plant, and equipment
+(PP&E)
+clearance (See - information DHS/MGMT -
+access clearance) Business
+Intelligence
+Dashboard
+Working Group
+* | cleared person who has includes members of the | None DHS/I&A
+
+Intelligence and
+
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 92
+

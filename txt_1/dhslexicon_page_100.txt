@@ -1,0 +1,63 @@
+DHS Lexicon
+
+incident, problem,
+change ete.
+
+action is taken.
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+DEFINITION INFO
+national security consultants to DHS, Information
+information and is industrial or Sharing Lexicon (As
+employed by, detailed | commercial contractors, of 03/21/2016)
+to, or assigned to licensees, certificate
+DHS holders, or grantees of
+DHS, including all
+subcontractors,
+personal services
+contractors, or any
+other category of person
+who acts for or on
+behalf of DHS as
+determined by the
+Secretary
+clinical active and organized criteria is clinical in None DHS Instruction
+competency process to evaluate nature and defined by 248-01-001 -
+review and improve care nationally recognized Medical Quality
+and services in the standards of practice Management
+health community and care
+clinical practice set of systematically None None DHS Instruction
+guidelines developed statements 248-01-001 -
+that should be based Medical Quality
+on scientific evidence, Management
+to assist practitioners
+and patient decision-
+making about
+appropriate
+healthcare for
+specific clinical
+circumstances.
+clock internal working None None DHS/S&T - DHS
+mechanism parts of a clock used Standards Council -
+in an improvised [Based on -
+manner to function DIA/JIEDDO WTI
+an IED IED Lex]
+close call event or situation None An example of a close near miss DHS Instruction
+that could have call is a surgical 248-01-001 -
+resulted in harm but procedure almost Medical Quality
+did not, either by performed on the Management
+chance or through wrong patient but
+timely intervention caught before the
+surgery was initiated.
+closed [status] final status in the None When the status is DHS/MGMT/CIO/I
+lifecycle of an closed, no further TSO
+
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+2017 Edition — Revision 2
+
+Page 93
+

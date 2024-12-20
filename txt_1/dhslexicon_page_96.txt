@@ -1,0 +1,149 @@
+DHS Lexicon
+
+TERM
+
+ACRONYM
+
+DEFINITION
+
+EXTENDED
+DEFINITION
+
+ANNOTATION
+
+USAGE SAMPLE
+
+SYNONYM
+
+SEE
+
+SUPPL
+INFO
+
+SOURCE
+
+through Saturday
+period), provided
+that each day’s visit
+lasts at least three
+hours, the combined
+weekly visits last at
+least six hours, and
+the combined annual
+visits last at least 60
+hours
+
+chronological
+analysis
+
+process of
+performing a detailed
+examination of
+information
+organized in order of
+occurrence
+
+None
+
+All available data
+about the situation is
+collected and sorted by
+date and time to
+provide a detailed
+timeline. This can
+make it possible to
+identify which events
+may have been
+triggered by others.
+
+DHS/MGMT/CIO/I
+TSO
+
+chug
+
+(See: homemade
+boat)
+
+Maritime Vessel
+Terminology
+Working Group
+
+chunking
+[learning]
+
+process of organizing
+information in
+groups or patterns to
+make it easier to
+remember (decrease
+cognitive load)
+
+None
+
+None
+
+information
+mapping
+
+DHS/OCHCO/TEQ
+AG Training
+Glossary
+
+cigar boat
+
+(See: speed boat)
+
+Maritime Vessel
+Terminology
+Working Group
+
+cigarette boat
+
+(See: speed boat)
+
+Maritime Vessel
+Terminology
+Working Group
+
+Immigration
+Services
+Ombudsman
+
+* | Citizenship and
+
+CISOMB
+
+Department of
+Homeland Security
+Support Component
+that assists
+individuals and
+employers in
+resolving problems
+with the United
+States Citizenship
+and Immigration
+Services
+
+None
+
+DHS Support
+Component
+
+DHS
+Organizatio
+n Chart
+
+DHS/MGMT -
+Directive 252-01
+
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 89
+

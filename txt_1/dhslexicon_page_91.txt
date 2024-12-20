@@ -1,0 +1,152 @@
+DHS Lexicon
+
+TERM
+
+ACRONYM
+
+DEFINITION
+
+EXTENDED
+DEFINITION
+
+ANNOTATION
+
+USAGE SAMPLE
+
+SYNONYM
+
+SEE
+
+SUPPL
+INFO
+
+SOURCE
+
+requirements of the
+system
+
+authority
+
+* | certified release
+
+CRA
+
+DHS Intelligence
+Enterprise (DHS IE)
+personnel authorized
+by the Under
+Secretary for
+Intelligence and
+Analysis/Chief
+Intelligence Officer
+and their respective
+Key Intelligence
+Official (KIO) to
+review and
+disseminate raw
+intelligence and
+information reports
+produced by their
+respective
+Component
+Intelligence Program
+(CIP)
+
+None
+
+None
+
+DHS Instruction
+264-01-006 - (IIM
+8901) DHS
+Intelligence
+Information Report
+Program
+
+* | Certified
+TEMPEST
+Technical
+Authority
+
+CTTA
+
+person that is an
+experienced,
+technically qualified
+U.S. Government
+employee who has
+met established
+certification
+requirements in
+accordance with the
+Committee on
+National Security
+Systems approved
+criteria
+
+appointed by a U.S.
+Government
+Department or Agency
+to fulfill certified
+TEMPEST technical
+authority
+responsibilities
+
+None
+
+DHS Instruction
+140-04-001 - Special
+Access Program
+Management,
+Administration and
+Oversight
+
+change
+
+addition,
+modification,
+replacement, or
+removal of something
+
+None
+
+Within ITIL, the scope
+should include changes
+to all architectures,
+processes, tools,
+metrics and
+documentation, as well
+as changes to IT
+services and other
+configuration items.
+
+DHS/MGMT/CIO/I
+TSO
+
+Change
+
+Advisory Board
+
+CAB
+
+group that supports
+the assessment,
+
+usually made up of
+representatives from:
+
+None
+
+DHS/MGMT/CIO/I
+TSO
+
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 84
+

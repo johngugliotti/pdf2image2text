@@ -1,0 +1,73 @@
+DHS Lexicon
+
+financial assistance
+functions within DHS.
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+DEFINITION INFO
+Execution
+Instruction
+N | * | Chief FOIA DHS Chief Privacy None None DHS Directive 262-
+Officer (*) Officer serves 11 - Fredom of
+concurrently as the Information Act
+Chief FOIA Officer, Compliance
+as designated by the
+DHS Secretary
+* | Chief CINT DHS official who acts in conjunction with, | The CINT also DHS IIM-8601 -
+Intelligence exercises leadership and without preempting | provides strategic DHS Intelligence
+Officer and authority over the authorities of, the oversight to and Enterprise (IE)
+intelligence policy DHS Chief Information | supports the missions policy and
+and programs Officer and the DHS and goals of members requirements for
+throughout the Chief Security Officer; of the DHS IE. This the DHS
+Department and chairs the Homeland person is designated in Intelligence
+exercises leadership Security Intelligence statute and in Rotational
+and authority over Council departmental policy as Assignments
+information sharing the Under Secretary Program (IRAP);
+and safeguarding for Intelligence and DHS Instruction
+policy and programs Analysis. 121-01-013 -
+throughout the Sensitive
+Department Compartmented
+Information (SCI)
+Program
+Management; DHS
+Instruction 265-01-
+001 - Intelligence
+Integration and
+Management
+* | Chief CPO DHS Senior None The CPO is DHS Instruction
+Procurement Procurement accountable for the 102-01-001
+Officer Executive who integrity and Acquisition
+exercises leadership performance of the Management
+and authority over investment, Instruction/Guidebo
+DHS acquisition acquisition, ok
+management contracting, and
+
+* | child-occupied
+
+building or a portion
+
+may include, but not
+
+None
+
+DHS Instruction
+
+facility of a building, visited | limited to, daycare 023-02-002-01 -
+
+regularly by the same | centers, preschools, and DHS Environmental
+child, six years of age | kindergarten Management
+or under, on at least classrooms Manual
+two different
+days within any
+week (Sunday
+
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 88
+

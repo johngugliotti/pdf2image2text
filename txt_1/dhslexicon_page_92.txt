@@ -1,0 +1,67 @@
+DHS Lexicon
+
+addition,
+modification,
+replacement, or
+removal of something
+
+of a single change. A
+change record is
+created for every
+request for change
+that is received, even
+those that are
+subsequently rejected.
+Change records should
+reference the
+configuration items
+that are affected by the
+change. Change
+records may be stored
+in the configuration
+management system,
+or elsewhere in the
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SYNONYM SEE SUPPL SOURCE
+DEFINITION INFO
+prioritization, all areas within the IT
+authorization and service provider; the
+scheduling of changes | business; and third
+parties such as suppliers
+change key key which operates None None DHS Instruction
+only one cylinder or 121-01-010 -
+one group of keyed Physical Security
+alike cylinders in a
+keying system
+change document providing None Change proposals are DHS/MGMT/CIO/I
+proposal high level description normally created by TSO
+of a significant the service portfolio
+change, along with a management process
+corresponding and are passed to
+business case and an change management
+expected for authorization.
+implementation Change management
+schedule. will review the
+potential impact on
+other services, on
+shared resources, and
+on the overall change
+schedule. Once the
+change proposal has
+been authorized,
+service portfolio
+management will
+charter the service.
+change record document containing | None Each change record DHS/MGMT/CIO/I
+the details of an documents the lifecycle TSO
+
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 85
+

@@ -1,0 +1,59 @@
+DHS Lexicon
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+DEFINITION INFO
+cathodic technique for None A tank system maybe DHS Instruction
+protection preventing corrosion cathodically protected 023-02-002-01 -
+of a metal surface by by applying either DHS Environmental
+making the surface galvanic anodes or Management
+the cathode of an using an impressed Manual
+electrochemical cell current (both methods
+supply free electrons
+to the surface to
+replace those released
+by corrosion).
+* | Central Index CIS database maintained None The Central Index Person Centric DHS/I&A
+System by U.S. Citizenship System (CIS) is Query Service Intelligence and
+and Immigration available to DHS users (@) Information
+Service (USCIS) that with appropriate Sharing Lexicon (As
+serves as a central, security authorization of 03/21/2016)
+DHS-wide index for and a need for the
+basic immigrant and information.
+nonimmigrant status
+information on aliens
+and other individuals
+subject to the
+provisions of the
+immigration and
+Nationality Act
+central station building or office None A central station that monitoring DHS Instruction
+which houses an provides burglar station; 121-01-010 -
+organization whose alarm service monitors proprietary Physical Security
+employees monitor commercial burglar station
+alarm systems alarm systems for
+alarm, opening,
+closing, and trouble
+signals and also
+dispatches
+investigators in
+response to alarm
+signals.
+* | Certificate of list of applicants who | None From this list, a Hiring DHS/I&A
+Eligibles have been deemed Manager may select Intelligence and
+qualified for a individuals to Information
+position through the interview and hire. Sharing Lexicon (As
+assessment process The list may be of 03/21/2016)
+ordered in a variety of
+ways (i.e., qualified
+veterans have
+preference on
+competitive vacancies
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+2017 Edition — Revision 2
+
+Page 82
+

@@ -1,0 +1,65 @@
+DHS Lexicon
+
+to require protection
+against unauthorized
+disclosure
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+DEFINITION INFO
+changes ete. are
+usually classified.
+classified recorded classified regardless of its None classified DHS Instruction
+document information ph al form or information; 121-01-007-01 - The
+characteristics, classified Department of
+including, without national Homeland Security
+limitation, written or security Personnel Security
+printed matter, tapes, information and Suitability
+charts, maps, paintings, Program; DHS
+drawings, engravings, Instruction 121-01-
+sketches, working notes 013 - Sensitive
+and papers; Compartmented
+reproductions of such Information (SCI)
+things by any means of Program
+process; and sound, Management
+voice, magnetic, or
+electronic recordings in
+any form; is marked to
+indicate its classified
+status when in
+documentary form as
+Top Secret, Secret, or
+Confidential
+classified information that has is marked to indicate its | A formal security classified DHS Instruction
+information been determined classified status when in | clearance is required document; 121-01-007-01 - The
+pursuant to documentary form to handle classified classified Department of
+Executive Order documents or access national Homeland Security
+13526 or any classified data. security Personnel Security
+predecessor order information and Suitability
+
+Program; DHS
+Instruction 121-01-
+013 - Sensitive
+Compartmented
+Information (SCI)
+Program
+Management;
+DHS/OGC; DHS
+Instruction 262-05-
+002 - Information
+
+Sharing and
+Safeguarding:
+Insider Threat
+Program
+* | classified ability or opportunity | None None access; access DHS Instruction
+information to gain knowledge of to classified 121-01-013 -
+access classified information information Sensitive
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+2017 Edition — Revision 2
+
+Page 91
+

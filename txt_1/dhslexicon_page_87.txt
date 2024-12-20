@@ -1,0 +1,59 @@
+DHS Lexicon
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SYNONYM SEE SUPPL SOURCE
+DEFINITION INFO
+to any form of cargo
+carpool carpool members may A carpool consists of at DHS Directive -
+member commutes to and be registered with DHS least two riders, in DHS Parking
+from work with as a specific carpool for | addition to the driver Program
+others on a regular the purpose of receiving
+full-time basis via a a free federal parking
+motor vehicle benefit
+carve out (See - carve out DHS Instruction
+[special access 140-04-001 - Special
+program (*)) Access Program
+Management,
+Administration and
+Oversight
+* | carve out provision approved None None carve out DHS Instruction
+[special access by the DHS Secretary 140-04-001 - Special
+program or DHS Deputy Access Program
+Secretary that Management,
+relieves DSS of its Administration and
+National Industrial Oversight
+Security Program
+obligation to perform
+industrial security
+oversight functions
+for a DHS special
+access program
+cast explosive manufactured None None DHS/S&T - DHS
+explosive poured in Standards Council -
+liquid form and [Based on -
+allowed to harden DIA/JIEDDO WTI
+IED Lex]
+catalog comprehensive None In most modern DHS Instruction
+[library] inventory of the libraries, the catalog, 072-01-001 -
+books, periodicals, originally in card General Procedures
+maps, and other format, has been For The Research
+materials in a given converted to machine- Library And
+library collection, readable bibliographic Information
+arranged in records and is Services
+systematic order to available
+facilitate retrieval electronically.
+* | catastrophic natural disaster or None None DHS Instruction
+
+incident act of terrorism, or 250-05-001,
+other man-made Designation of
+disaster that results Essential and
+in extraordinary Exempt Personnel
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 80
+

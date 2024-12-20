@@ -1,0 +1,60 @@
+DHS Lexicon
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SYNONYM SEE SUPPL SOURCE
+DEFINITION INFO
+service knowledge
+management system.
+change request (See - request for DHS/MGMT/CIO/I
+change) TSO
+change list of all authorized includes planned A change schedule is DHS/MGMT/CIO/I
+schedule changes and related implementation dates sometimes called a TSO
+dates and actual completion forward schedule of
+dates change, even though it
+also contains
+information about
+changes that have
+already been
+implemented.
+chemical agent chemical substance None excludes riot control DHS/S&T - DHS
+which is intended for agents when used for Standards Council -
+use in military law enforcement [Based on -
+operations to kill, purposes, herbicides, DIA/JIEDDO WTI
+seriously injure, or smoke, and flames IED Lex]
+incapacitate mainly
+through its
+physiological effects
+chemical IED (See - chemical DHS/S&T - DHS
+improvised explosive Standards Council -
+device enhancement) [Based on -
+DIA/JIEDDO WTI
+IED Lex]
+chemical chemical agent None None chemical IED DHS/S&T - DHS
+improvised specifically designed Standards Council -
+explosive device to cause death or [Based on -
+enhancement other harm through DIA/JIEDDO WTI
+toxic properties that IED Lex]
+is deliberately added
+as a component to an
+improvised explosive
+device (IED)
+chemical timing timing switch using None None DHS/S&T - DHS
+switch the reaction of Standards Council -
+chemical compounds [Based on -
+as a switch to provide DIA/JIEDDO WTI
+a delay before IED Lex]
+starting the initiation
+train
+chemical toxic chemical or its None Among the commonly DHS Instruction
+weapon precursor that can employed chemical 119-01-001-02 -
+cause death, injury, agents are the Standard Operating
+temporary following: Procedure ,
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 86
+

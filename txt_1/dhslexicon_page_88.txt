@@ -1,0 +1,59 @@
+DHS Lexicon
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SYNONYM SEE SUPPL SOURCE
+DEFINITION INFO
+levels of casualties or
+damage or disruption
+severely affecting the
+population (including
+mass evacuations),
+infrastructure,
+environment,
+economy, national
+morale, or
+government functions
+in an area
+* | categorical CATEX class of activities that | None Agencies can define DHS Instruction
+exclusion do not need to categories of such 023-01-001 -
+undergo detailed activities as a way to Environmental
+environmental reduce unnecessary Planning & Historic
+analysis in an paperwork and delay. Preservation;
+environmental Categorical exclusions DHS/OGC
+assessment (EA) or (CATEXs) are defined
+an environmental by, and are unique to,
+impact statement each federal agency.
+(EIS) because the See - 40 CFR 1508.4
+activities have been
+shown not
+individually or
+cumulatively to have
+a significant effect on
+the human
+environment
+category unique named group None Cost types are used to DHS/MGMT/CIO/I
+to associate things group similar types of TSO
+that have something cost. Incident
+in common categories are used to
+group similar types of
+incident, while
+configuration item
+(CI) types are used to
+group similar types of
+configuration item.
+category mechanism that None None DHS Instruction
+management provides the strategic
+plan direction for a
+category of goods or Management
+services managed by Instruction/Guidebo
+a Strategic Sourcing ok
+Commodity Council
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 81
+

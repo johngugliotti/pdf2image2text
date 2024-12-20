@@ -1,0 +1,85 @@
+DHS Lexicon
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+
+DEFINITION INFO
+management and operational Investment Control
+operation of that (production) Instruction
+asset through its environment
+usable life after the
+initial acquisition
+
+* | capital CIP tool used in annual used in production of None In a budget year, DHS/MGMT -
+investment plan agency budgeting the Resource Allocation the Federal Business
+exercises to examine Plan (RAP) and the Government utilizes Intelligence
+investment dollars, OMB 300 report the capital Dashboard
+costs, value, and investment plan to Working Group
+return on investment survey the previous
+and future fiscal
+years investments.
+capital lease lease that transfers must meet at least one None s that secure DHS/MGMT -
+
+substantially all the of the following four facilities and space Business
+benefits and risks of criteria: for DHS that result Intelligence
+ownership to the (1) The lease transfers in ownership of the Dashboard
+lessee ownership of the asset facility are Working Group
+
+to the lessee by the end considered capital
+
+of the lease term leases.
+
+(2) The lease contains
+
+an option to purchase
+
+the leased asset at a
+
+bargain price
+
+(3) The lease term is
+
+equal to or greater than
+
+75 percent of the
+
+estimated economic life
+
+of the leased asset
+
+(4) The present value of
+
+rental and other
+
+minimum lease
+
+payments, excluding
+
+that portion of the
+
+payments representing
+
+executory cost, equals
+
+or exceeds 90 percent of
+
+the fair value of the
+
+leased asset
+
+* | capital CPIC process for decision- also applies to non-IT CPIC allows for DHS Instruction
+
+planning and making ensuring that | assets, including improved allocation of 102-01-001
+
+investment investments integrate | construction, leases of limited resources to Acquisition
+
+control strategic planning, capital assets, and benefit DHS strategic Management
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 78
+

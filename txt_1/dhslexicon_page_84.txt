@@ -1,0 +1,85 @@
+DHS Lexicon
+
+fleets), and intellectual
+property (including
+software); excludes
+items acquired for
+resale in the ordinary
+course of operations or
+held for the purpose of
+physical consumption
+such as operating
+materials and supplies.
+
+manufacture; through
+lease/purchase or
+other capital lease
+(regardless of whether
+title has passed to the
+Federal Government);
+through an operating
+lease for an asset with
+an estimated useful life
+of two years or more;
+through exchange.
+Capital assets may or
+may not be capitalized
+(i.e., recorded in an
+entity's balance sheet)
+under Federal
+accounting standards.
+
+Capital assets do not
+include intangible
+assets, such as the
+knowledge resulting
+from research and
+development; or the
+human capital
+resulting from
+education and
+
+capital assets.
+
+S | D | TERM ACRONYM | DEFINITION EXTENDED ANNOTATION USAGE SAMPLE SEE ALSO SUPPL SOURCE
+DEFINITION INFO
+motor and aircraft construction, or DHS mission are Working Group;
+
+DHS Instruction
+
+Management
+Instruction/Guidebo
+ok; Instruction 102-
+02-001 - Capital
+Planning And
+Investment Control
+Instruction
+
+training.
+* | capital asset (See - Exhibit 300 DHS Instruction
+plan Business Case) 102-01b - Appendix
+B Systems
+Engineering Life
+Cycle
+capital improvement that regardless of the source | None An addition to a DHS/MGMT -
+improvement increases the useful of funding or DHS facility to Business
+life, efficiency, capitalization threshold accommodate a Intelligence
+capacity, or size of an growing Dashboard
+existing asset or organization's Working Group
+modifies the personnel is a
+functionality or use capital
+of the asset improvement.
+capital planning, may consist of one or None DHS Instruction
+investment development, and more assets, which 102-02-001 - Capital
+acquisition of a provide useful Planning And
+capital asset and the components in an
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 77
+

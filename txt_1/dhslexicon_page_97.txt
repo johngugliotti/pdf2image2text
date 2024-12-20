@@ -1,0 +1,91 @@
+DHS Lexicon
+
+S | D | TERM
+
+ACRONYM
+
+DEFINITION
+
+EXTENDED
+DEFINITION
+
+ANNOTATION
+
+USAGE SAMPLE
+
+SEE ALSO
+
+SUPPL
+INFO
+
+SOURCE
+
+* | Civil Rights
+
+functions and
+
+includes resources,
+
+Civil Rights and Civil
+
+DHS Instruction
+
+support of civil
+authorities)
+
+and Civil activities dedicated to | assets, budgets and Liberties Programs, 046-01-001 - DHS
+Liberties the protection of civil | processes provided for whether implemented Instruction for the
+Programs rights and civil support solely by the Officer Office for Civil
+liberties (including for Civil Rights or Rights and Civil
+Equal Employment jointly with Liberties
+Opportunity) in Component Heads as a
+support of the overall shared responsibility,
+effort to build a recognizes the Officer
+model workplace at for Civil Rights and
+DHS Civil Liberties’
+professional expertise
+and primary
+responsibil
+excellenc
+in this area.
+civil support (See — defense DOD Joint
+
+Publication 3-28—
+“Civil Support” and
+www.dod.mil/policy
+/sections/policy_offi
+ces/hd/index.html.
+
+clandestine None None DHS Instruction
+physical access 121-01-009 Rev 01 -
+live or secured Department of
+area without proper Homeland Security
+authority and Technical
+without the Surveillance
+knowledge or consent Countermeasures
+of the occupants or Program
+the responsible
+security officer
+classification (See - information DHS Instruction
+classification) 121-01-013 -
+Sensitive
+Compartmented
+Information (SCI)
+Program
+Management
+action of assigning a None Classification is used DHS/MGMT/CIO/I
+[process] category to to ensure consistent TSO
+something. management and
+reporting.
+Configuration items,
+incidents, problems,
+LEGEND:
+
+Terms marked on the left with N = new addition to DHS Lexicon; R = revision of previously published information; and those marked with “*” are DHS- or Federal
+
+Government-specific.
+
+2017 Edition — Revision 2
+
+Page 90
+
